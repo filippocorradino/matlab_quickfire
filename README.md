@@ -8,4 +8,5 @@ which don't fall under any larger-scope project or category.
 ```markdown
 | Title                  | Short description                                   |
 |------------------------|-----------------------------------------------------|
+| LotteriaItalia.m       | Statistical investigation of a 2020 lottery anomaly |
 ```
