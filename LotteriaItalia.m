@@ -1,7 +1,8 @@
 % LOTTERIA ITALIA SIMULATION
-% During the Lotteria Italia extraction of 2020, 3 tickets out of 180 for
-% the 2000 € prizes were extracted out of the same decade (only the units
-% digit was different), out of a total of 6700000 tickets.
+% During the 2019 Lotteria Italia extraction (which happened on Jan 6th, 2020),
+% 3 tickets out of 180 for the third category 20000 € prizes were extracted out
+% of the same decade (only the units digit was different), out of a total of
+% 6700000 sold tickets.
 % The probability of this occurrence (3+ tickets extracted in the same
 % decade for at least 1 of the decades) was calculated analytically by the
 % guys of TAXI1729 to be approximately 1/652262.
